@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SRX-SPCq
+- 👋 Hi, I’m @SRX-SPC
 - 👀 I’m interested in One-pipe Microcomputer 
 - 🌱 I’m currently learning Mpc574x's PWM
 - 💞️ I’m looking to collaborate on One-pipe microcomputer 
